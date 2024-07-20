@@ -2,4 +2,4 @@
 
 This project for education syntax Java 
 
-https://github.com/XLED_bd/simple_flappy_bird/raw/master/image.png
+https://github.com/XLED_bd/simple_flappy_bird/image.png
